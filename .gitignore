@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.opensdf
+*.sdf
+/x64
+/ipch
+/win/x64
+/win/Win32
+/win/examples/Win32
+/win/examples/x64

@@ -30,3 +30,17 @@ License
 The license of this wrapper is the same as ceres-solver and glog, New BSD license.
 
 Note that CXSparse is distributed under the GNU LGPL license.
+
+
+
+Usage:
+If you want to use dynamic library,you just need to add 
+*ceres_gd.lib
+*libglog_static_gd.lib
+to the additional libs and copy the dlls to your exe directory
+
+and if you want to use static library,you need to
+*ceres_stastic_gd.lib
+*libglog_static_gd.lib
+*CXSparse_gd.lib
+to the additional libs

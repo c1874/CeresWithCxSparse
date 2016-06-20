@@ -34,6 +34,7 @@ Note that CXSparse is distributed under the GNU LGPL license.
 
 
 Usage:
+======
 If you want to use dynamic library,you just need to add 
 *ceres_gd.lib
 *libglog_static_gd.lib
